@@ -5,3 +5,5 @@ The dataset can be downloaded from "https://www.kaggle.com/c/quora-insincere-que
 
 The pre-trained weights can be downloaded from "http://files.fast.ai/models/wt103/"
 
+The code is explained in detail here : https://medium.com/@shivamakhauri04/quora-smart-compose-of-sincere-questions-e3398ce59688
+ 
